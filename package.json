@@ -1,0 +1,14 @@
+{
+  "name": "btc-vanity-generator",
+  "version": "1.0.0",
+  "description": "BTC Vanity Generator",
+  "author": "Wietse Wind <mail@wietse.com>",
+  "private": false,
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "dependencies": {
+    "coinkey": "^2.0.0"
+  }
+}
